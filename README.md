@@ -1,0 +1,1 @@
+# cqut-odoo-training
