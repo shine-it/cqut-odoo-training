@@ -3,7 +3,7 @@
     'name': "estate-property",
 
     'summary': """
-        超级好用的地产管理软件
+        超级好用的地产管理软件xiahui
         """,
 
     'description': """
